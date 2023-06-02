@@ -1,0 +1,6 @@
+:root {
+    --font-size-main: 16px;
+    --font-color: #3C3C3C;
+    --backgr-main: #F6F6F6;
+    --width-container: 1170px;
+}
