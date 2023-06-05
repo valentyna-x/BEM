@@ -66,6 +66,7 @@ body {
 
 .menu__item a:hover {
     color: #38bdf6;
+    cursor: url('../assets/cursor.png');
 }
 
 .descr {
@@ -87,6 +88,7 @@ body {
 .menu__link {
     text-transform: uppercase;
     color: var(--font-color);
+    cursor: url('../assets/cursor.png'), auto;
 }
 
 .footer {
@@ -96,6 +98,7 @@ body {
     background: #fff;
     padding-top: 60px;
 }
+
 .social {
     display: flex;
     gap: 10px;
@@ -110,6 +113,7 @@ body {
 
 a:hover {
     opacity: 0.5;
+
 }
 
 .btn__link {
@@ -167,6 +171,7 @@ h4 {
     height: 270px;
     border: 1px solid #f1f1f1;
     perspective: 1000px;
+    cursor: url('../assets/cursor.png'), auto;
 }
 
 .flip-card-inner {
