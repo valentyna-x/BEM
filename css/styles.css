@@ -200,9 +200,9 @@ h4 {
     transform: rotateY(180deg);
   }
 
-  .icons {
-    padding-top: 114px;
-    padding-left: 70px;
+  .social {
+    padding-top: 20px;
+    padding-bottom: 40px;
   }
 
 
